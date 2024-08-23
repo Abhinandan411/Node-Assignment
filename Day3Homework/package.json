@@ -1,0 +1,12 @@
+{
+  "name": "arrays-hof",
+  "version": "1.0.0",
+  "description": "A lightweight utility package that enhances JavaScript arrays with powerful higher-order functions like sum, unique, and clear.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhinandan",
+  "license": "ISC"
+}
