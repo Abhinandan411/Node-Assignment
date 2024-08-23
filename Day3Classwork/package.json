@@ -1,0 +1,12 @@
+{
+  "name": "binary-search-algorithm-by-abhinandan",
+  "version": "1.0.0",
+  "description": "This package helps user to find a element using binary search which consist less time complexity.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhinandan",
+  "license": "ISC"
+}
